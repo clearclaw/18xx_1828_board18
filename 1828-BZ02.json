@@ -1,0 +1,443 @@
+{
+	"bname": "1828",
+	"version": "BZ02",
+	"author": "Beezy",
+	"board": {
+		"imgLoc": "images/1828-BZ02/Map.png",
+		"xStart": 50,
+		"xStep": 50,
+		"yStart": 58,
+		"yStep": 87
+	},
+	"market": {
+		"imgLoc": "images/1828-BZ02/Market.png",
+		"xStart": 10,
+		"xStep": 58,
+		"yStart": 40,
+		"yStep": 75
+	},
+	"tray": [{
+			"type": "tile",
+			"tName": "Yellow Tiles",
+			"imgLoc": "images/1828-BZ02/Yellow.png",
+			"xStart": 0,
+			"xSize": 100,
+			"xStep": 150,
+			"yStart": 0,
+			"ySize": 116,
+			"yStep": 150,
+			"tile": [{
+					"dups": 6,
+					"rots": 6
+				}, {
+					"dups": 16,
+					"rots": 3
+				}, {
+					"dups": 3,
+					"rots": 6
+				},
+				{
+					"dups": 15,
+					"rots": 6
+				}, {
+					"dups": 4,
+					"rots": 3
+				}, {
+					"dups": 3,
+					"rots": 6
+				},
+				{
+					"dups": 7,
+					"rots": 3
+				}, {
+					"dups": 1,
+					"rots": 3
+				}, {
+					"dups": 1,
+					"rots": 6
+				},
+				{
+					"dups": 1,
+					"rots": 6
+				}, {
+					"dups": 1,
+					"rots": 3
+				}, {
+					"dups": 1,
+					"rots": 6
+				}]
+		},
+		{
+			"type": "tile",
+			"tName": "Green Tiles",
+			"imgLoc": "images/1828-BZ02/Green.png",
+			"xStart": 0,
+			"xSize": 100,
+			"xStep": 150,
+			"yStart": 0,
+			"ySize": 116,
+			"yStep": 150,
+			"tile": [{
+					"dups": 6,
+					"rots": 3
+				}, {
+					"dups": 4,
+					"rots": 6
+				}, {
+					"dups": 1,
+					"rots": 6
+				},
+				{
+					"dups": 1,
+					"rots": 6
+				}, {
+					"dups": 1,
+					"rots": 6
+				}, {
+					"dups": 1,
+					"rots": 4
+				},
+				{
+					"dups": 4,
+					"rots": 6
+				}, {
+					"dups": 4,
+					"rots": 6
+				}, {
+					"dups": 3,
+					"rots": 6
+				},
+				{
+					"dups": 2,
+					"rots": 6
+				}, {
+					"dups": 2,
+					"rots": 6
+				}, {
+					"dups": 2,
+					"rots": 6
+				},
+				{
+					"dups": 2,
+					"rots": 6
+				}, {
+					"dups": 2,
+					"rots": 6
+				}, {
+					"dups": 2,
+					"rots": 6
+				},
+				{
+					"dups": 2,
+					"rots": 6
+				}, {
+					"dups": 2,
+					"rots": 6
+				}, {
+					"dups": 1,
+					"rots": 2
+				},
+				{
+					"dups": 1,
+					"rots": 2
+				},
+                {
+					"dups": 1,
+					"rots": 1
+                },
+                {
+					"dups": 3,
+					"rots": 6
+                }]
+		},
+		{
+			"type": "tile",
+			"tName": "Brown Tiles",
+			"imgLoc": "images/1828-BZ02/Brown.png",
+			"xStart": 0,
+			"xSize": 100,
+			"xStep": 150,
+			"yStart": 0,
+			"ySize": 116,
+			"yStep": 150,
+			"tile": [{
+					"dups": 2,
+					"rots": 6
+				}, {
+					"dups": 2,
+					"rots": 2
+				}, {
+					"dups": 2,
+					"rots": 6
+				},
+				{
+					"dups": 2,
+					"rots": 6
+				}, {
+					"dups": 2,
+					"rots": 6
+				}, {
+					"dups": 2,
+					"rots": 6
+				},
+				{
+					"dups": 2,
+					"rots": 3
+				}, {
+					"dups": 2,
+					"rots": 6
+				}, {
+					"dups": 2,
+					"rots": 6
+				},
+				{
+					"dups": 4,
+					"rots": 3
+				}, {
+					"dups": 1,
+					"rots": 1
+				}, {
+					"dups": 3,
+					"rots": 1
+				},
+				{
+					"dups": 2,
+					"rots": 6
+				}, {
+					"dups": 2,
+					"rots": 3
+				}, {
+					"dups": 1,
+					"rots": 6
+				},
+				{
+					"dups": 1,
+					"rots": 6
+				}, {
+					"dups": 1,
+					"rots": 6
+				}, {
+					"dups": 1,
+					"rots": 6
+				}, {
+					"dups": 1,
+					"rots": 6
+				}, {
+					"dups": 1,
+					"rots": 6
+				}, {
+					"dups": 1,
+					"rots": 6
+				}]
+		},
+		{
+			"type": "btok",
+			"tName": "Tokens",
+			"imgLoc": "images/1828-BZ02/Tokens1.png",
+			"xStart": 0,
+			"xSize": 30,
+			"xStep": 60,
+			"yStart": 0,
+			"ySize": 30,
+			"yStep": 60,
+			"token": [{
+					"dups": 4,
+					"flip": true
+				},
+				{
+					"dups": 4,
+					"flip": true
+				},
+				{
+					"dups": 4,
+					"flip": true
+				},
+				{
+					"dups": 4,
+					"flip": true
+				},
+				{
+					"dups": 4,
+					"flip": true
+				},
+				{
+					"dups": 4,
+					"flip": true
+				},
+				{
+					"dups": 4,
+					"flip": true
+				},
+				{
+					"dups": 4,
+					"flip": true
+				},
+				{
+					"dups": 3,
+					"flip": true
+				},
+				{
+					"dups": 3,
+					"flip": true
+				},
+				{
+					"dups": 3,
+					"flip": true
+				},
+				{
+					"dups": 3,
+					"flip": true
+				},
+				{
+					"dups": 3,
+					"flip": true
+				},
+				{
+					"dups": 3,
+					"flip": true
+				},
+				{
+					"dups": 3,
+					"flip": true
+				},
+				{
+					"dups": 3,
+					"flip": true
+				},
+				{
+					"dups": 1,
+					"flip": true
+				}
+			]
+		},
+		{
+			"type": "btok",
+			"tName": "Extra Tokens",
+			"imgLoc": "images/1828-BZ02/Tokens1.png",
+			"xStart": 0,
+			"xSize": 30,
+			"xStep": 60,
+			"yStart": 0,
+			"ySize": 30,
+			"yStep": 60,
+			"token": [{
+					"dups": 0,
+					"flip": true
+				},
+				{
+					"dups": 0,
+					"flip": true
+				},
+				{
+					"dups": 0,
+					"flip": true
+				},
+				{
+					"dups": 0,
+					"flip": true
+				},
+				{
+					"dups": 0,
+					"flip": true
+				},
+				{
+					"dups": 0,
+					"flip": true
+				},
+				{
+					"dups": 0,
+					"flip": true
+				},
+				{
+					"dups": 0,
+					"flip": true
+				},
+				{
+					"dups": 0,
+					"flip": true
+				},
+				{
+					"dups": 0,
+					"flip": true
+				},
+				{
+					"dups": 0,
+					"flip": true
+				},
+				{
+					"dups": 0,
+					"flip": true
+				},
+				{
+					"dups": 0,
+					"flip": true
+				},
+				{
+					"dups": 0,
+					"flip": true
+				},
+				{
+					"dups": 0,
+					"flip": true
+				},
+				{
+					"dups": 0,
+					"flip": true
+                }]
+		},
+		{
+			"type": "mtok",
+			"tName": "Tokens",
+			"imgLoc": "images/1828-BZ02/Tokens1.png",
+			"xStart": 0,
+			"xSize": 30,
+			"xStep": 120,
+			"yStart": 0,
+			"ySize": 30,
+			"yStep": 60,
+			"token": [{
+					"flip": true
+				}, {
+					"flip": true
+				}, {
+					"flip": true
+				}, {
+					"flip": true
+				}, {
+					"flip": true
+				}, {
+					"flip": true
+				}, {
+					"flip": true
+				}, {
+					"flip": true
+				}, {
+					"flip": true
+				}, {
+					"flip": true
+				}, {
+					"flip": true
+				}, {
+					"flip": true
+				}, {
+					"flip": true
+				}, {
+					"flip": true
+				}, {
+					"flip": true
+				}, {
+					"flip": true
+				}
+			]
+		}
+	],
+	"links": [{
+			"link_name": "1828 on BGG",
+			"link_url": "https://boardgamegeek.com/geeklist/50723/item/5856495#item5856495"
+		}, {
+			"link_name": "Rules (PDF)",
+			"link_url": " https://kanga.nu/~claw/1828/1828-Rules.pdf "
+		}
+
+	]
+}
